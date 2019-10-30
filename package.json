@@ -12,5 +12,10 @@
   "devDependencies": {
     "nodemon": "^1.19.4",
     "ws": "3.3.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0"
   }
 }
